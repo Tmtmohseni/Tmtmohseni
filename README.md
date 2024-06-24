@@ -1,4 +1,4 @@
-To install VMware Horizon. Follow these steps one by one.
+![2](https://github.com/Tmtmohseni/Tmtmohseni/assets/162871906/1551c01b-f9d8-4146-a22c-deafc2f09ff3)To install VMware Horizon. Follow these steps one by one.
 
 
 **Windows PE is already installed.**
@@ -21,7 +21,6 @@ To install VMware Horizon. Follow these steps one by one.
 
 
 
-![Uploading 2.jpg…]()
 
 
 
@@ -29,7 +28,9 @@ To install VMware Horizon. Follow these steps one by one.
 
 
 
-4-	To recover ThinOS from Backup, follow these steps.
+
+
+5.	To recover ThinOS from Backup, follow these steps.
 
 
 
