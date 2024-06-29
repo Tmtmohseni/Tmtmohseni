@@ -58,16 +58,16 @@ To install VMware Horizon. Follow these steps one by one.
 9.    Click Proceed
 
    
-11.   When the recovery is done, restart your system
+10.   When the recovery is done, restart your system
 
     
-12.   For Remote Connection follow the structure across the 4 tabs
+11.   For Remote Connection follow the structure across the 4 tabs
 
-![13](https://github.com/Tmtmohseni/Tmtmohseni/assets/162871906/d45b6579-43ba-4312-b006-a351708988cc)
+   ![13](https://github.com/Tmtmohseni/Tmtmohseni/assets/162871906/d45b6579-43ba-4312-b006-a351708988cc)
 
-![11](https://github.com/Tmtmohseni/Tmtmohseni/assets/162871906/41b7e924-b457-4a22-94a6-c123c04eacef)
+   ![11](https://github.com/Tmtmohseni/Tmtmohseni/assets/162871906/41b7e924-b457-4a22-94a6-c123c04eacef)
 
-![12](https://github.com/Tmtmohseni/Tmtmohseni/assets/162871906/91ee024e-f5c6-46bb-896d-54a315fbed90)
+   ![12](https://github.com/Tmtmohseni/Tmtmohseni/assets/162871906/91ee024e-f5c6-46bb-896d-54a315fbed90)
 
 
 
