@@ -33,7 +33,9 @@ To install VMware Horizon. Follow these steps one by one.
 
 
 5.	To recover ThinOS from Backup, follow these steps.
-** “Computer-IMAGE-thinos pcoip 5070- Disk 0 -Disk 0_20220922_Full_v1.pbd” **
+
+   
+   **Computer-IMAGE-thinos pcoip 5070- Disk 0 -Disk 0_20220922_Full_v1.pbd**
 
 ![Uploading image.png…]()
 
