@@ -53,7 +53,7 @@ To install VMware Horizon. Follow these steps one by one.
 
    
 
-   ![image](https://github.com/Tmtmohseni/Tmtmohseni/assets/162871906/635b5539-0d91-4af2-8f00-491ae99c0157)
+      ![image](https://github.com/Tmtmohseni/Tmtmohseni/assets/162871906/635b5539-0d91-4af2-8f00-491ae99c0157)
    
 
 7. Tick Hard disk 0
