@@ -1,6 +1,5 @@
 # Error For Running DameWare.Mini.Remote.Control
 
-
 Sometimes when you decide to open an app or file or install or open a program on your Windows 10 PC, you might get the error "An administrator has blocked you from running this app".
 
 ![6](https://github.com/Tmtmohseni/Tmtmohseni/assets/162871906/888a0281-00e5-45a1-bed0-b248aca39dc4)
