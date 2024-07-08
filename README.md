@@ -1,4 +1,4 @@
-To install VMware Horizon. Follow these steps one by one.
+To install VMware Horizon. Follow these steps one by one
 
 
 **Windows PE is already installed.**
