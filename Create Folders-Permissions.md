@@ -1,4 +1,4 @@
-# How to Create a New Project in the EIED Network and Set Its Permissions: 
+# How to Create a New Project in the EIED Network and Set Its Permissions
 
 # 1. Obtain Authorization:
 
