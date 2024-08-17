@@ -7,14 +7,15 @@ Before initiating the creation of a new project, ensure you have the necessary a
 
 2. Create an Organizational Unit: 
 
-
-Access the Active Directory (AD) management console to establish an Organizational Unit (OU) in AD that corresponds to the new project. 
+Access the Active Directory (AD) management console to establish an Organizational Unit (OU) in AD that corresponds to the new project. (Like Example)
 
 
 
 3. Set Up Groups: 
 
-Within the Organizational Unit, create the necessary groups with the required names. (There is a list which is organized by ???) 
+Within the Organizational Unit, create the necessary groups with the required names. (There is a list which is organized by QHSE) 
+
+
 
 4. Create Project Folders:
 
